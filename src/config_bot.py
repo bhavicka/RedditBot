@@ -1,0 +1,2 @@
+REDDIT_USERNAME = 'LastFMBot'
+REDDIT_PASS = 'bhavika1992'
